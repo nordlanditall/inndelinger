@@ -4,16 +4,16 @@
 
 #Aldersgrupper
 
-https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Aldersgrupper_SSB.xlsx?token=AWOQKMOCFIBIEDYWIU6GZA3BSJVRW
+https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Aldersgrupper_SSB.xlsx
 
 #Sentralitetsindeks
 
-https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Sentralitetsindeks_SSB.xlsx?token=AWOQKMLNZWM6TDXQYSTYOGTBSJVK6
+https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Sentralitetsindeks_SSB.xlsx
 
 #Nordland_region_kommuner
 
-https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Nordland_regioner_kommuner.xlsx?token=AWOQKMK3ZRSYT2S22UI5ERDBSJVKS
+https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Nordland_regioner_kommuner.xlsx
 
 #Nace-hierarki
 
-https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Nace-hierarki.xlsx?token=AWOQKMPUU3BNJB7GCCOKJO3BSJVKG
+https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Nace-hierarki.xlsx
