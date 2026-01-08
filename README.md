@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/nordlanditall/inndelinger/refs/heads/main/Nord
 #Nace-hierarki
 
 https://raw.githubusercontent.com/nordlanditall/inndelinger/main/Nace-hierarki.xlsx
+
+#Bo- og arbeidsmarkedsregioner
+https://raw.githubusercontent.com/nordlanditall/inndelinger/refs/heads/main/BA-reg.xlsx
